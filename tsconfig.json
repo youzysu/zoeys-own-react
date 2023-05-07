@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "es6",
+    "lib": ["ES6", "dom", "dom.iterable", "esnext"],
+    "sourceMap": true,
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "strict": true
+  },
+  "include": ["src", "src/index.ts"],
+  "exclude": ["node_modules"]
+}
